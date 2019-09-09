@@ -1,3 +1,6 @@
+## My Profile
+My name is Chew Tee Ming. My student number is s3812497. My email address is ctming01@hotmail.com . I am a Chinese Malaysian born and raised in Penang. I am currently a student at RMIT preparing to enrol in the Bachelor of Information Technology degree program. I am able to fluently speak English and a reasonable amount of Malay. I help to manage and set up the audio visual system for my local church on a regular basis and for special events. I started out without much prior experience or knowledge but gained many new skills and learned various things through helping out in this field.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/teeming01/teeming01.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
